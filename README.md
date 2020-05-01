@@ -15,6 +15,6 @@ Steps executed to deploy the static website have been captured and stored in [Sc
 ## CloudFront URL
 CloudFront endpoint URL: du9n43z1oi23f.cloudfront.net
 
-To access the site, append index.html to the CloudFront URL: [du9n43z1oi23f.cloudfront.net/index.html](du9n43z1oi23f.cloudfront.net/index.html)
+To access the site, append index.html to the CloudFront URL: [du9n43z1oi23f.cloudfront.net/index.html](http://du9n43z1oi23f.cloudfront.net/index.html)
 
 
